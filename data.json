@@ -1,1 +1,72 @@
-{"Angelica": {"Star Wars - Episode III": 3, "Eternal Sunshine of the Spotless Mind": 2, "The Revenant": 4, "The Hateful Eight": 5, "Resident Evil": 1, "Perfume: The Story of a Murderer": 2, "Drive": 2}, "Bill": {"Star Wars - Episode III": 2, "Eternal Sunshine of the Spotless Mind": 3, "Avegers: Endgame": 4, "The Hateful Eight": 2, "Resident Evil": 3, "Drive": 3}, "Chan": {"Star Wars - Episode III": 5, "Eternal Sunshine of the Spotless Mind": 1, "Avegers: Endgame": 1, "The Revenant": 3, "The Hateful Eight": 5, "Resident Evil": 1}, "Dan": {"Star Wars - Episode III": 3, "Eternal Sunshine of the Spotless Mind": 4, "Avegers: Endgame": 4, "The Hateful Eight": 3, "Resident Evil": 4, "Perfume: The Story of a Murderer": 4, "Drive": 2}, "Hailey": {"Eternal Sunshine of the Spotless Mind": 4, "Avegers: Endgame": 1, "The Revenant": 4, "Perfume: The Story of a Murderer": 4, "Drive": 1}, "Jordyn": {"Eternal Sunshine of the Spotless Mind": 4, "Avegers: Endgame": 4, "The Revenant": 5, "The Hateful Eight": 5, "Resident Evil": 4, "Perfume: The Story of a Murderer": 4, "Drive": 4}, "Sam": {"Star Wars - Episode III": 5, "Eternal Sunshine of the Spotless Mind": 2, "The Revenant": 3, "The Hateful Eight": 5, "Resident Evil": 4, "Perfume: The Story of a Murderer": 5}, "Veronica": {"Star Wars - Episode III": 3, "The Revenant": 5, "The Hateful Eight": 4, "Resident Evil": 2, "Perfume: The Story of a Murderer": 3}, "Miguel": {"Star Wars - Episode III": 9, "Resident Evil": 1, "Eternal Sunshine of the Spotless Mind": 10}}
+{
+    "Angelica": {
+        "Star Wars - Episode III": 3,
+        "Eternal Sunshine of the Spotless Mind": 2,
+        "The Revenant": 4,
+        "The Hateful Eight": 5,
+        "Resident Evil": 1,
+        "Perfume: The Story of a Murderer": 2,
+        "Drive": 2
+    },
+    "Bill": {
+        "Star Wars - Episode III": 2,
+        "Eternal Sunshine of the Spotless Mind": 3,
+        "Avengers: Endgame": 4,
+        "The Hateful Eight": 2,
+        "Resident Evil": 3,
+        "Drive": 3
+    },
+    "Chan": {
+        "Star Wars - Episode III": 5,
+        "Eternal Sunshine of the Spotless Mind": 1,
+        "Avengers: Endgame": 1,
+        "The Revenant": 3,
+        "The Hateful Eight": 5,
+        "Resident Evil": 1
+    },
+    "Dan": {
+        "Star Wars - Episode III": 3,
+        "Eternal Sunshine of the Spotless Mind": 4,
+        "Avengers: Endgame": 4,
+        "The Hateful Eight": 3,
+        "Resident Evil": 4,
+        "Perfume: The Story of a Murderer": 4,
+        "Drive": 2
+    },
+    "Hailey": {
+        "Eternal Sunshine of the Spotless Mind": 4,
+        "Avengers: Endgame": 1,
+        "The Revenant": 4,
+        "Perfume: The Story of a Murderer": 4,
+        "Drive": 1
+    },
+    "Jordyn": {
+        "Eternal Sunshine of the Spotless Mind": 4,
+        "Avengers: Endgame": 4,
+        "The Revenant": 5,
+        "The Hateful Eight": 5,
+        "Resident Evil": 4,
+        "Perfume: The Story of a Murderer": 4,
+        "Drive": 4
+    },
+    "Sam": {
+        "Star Wars - Episode III": 5,
+        "Eternal Sunshine of the Spotless Mind": 2,
+        "The Revenant": 3,
+        "The Hateful Eight": 5,
+        "Resident Evil": 4,
+        "Perfume: The Story of a Murderer": 5
+    },
+    "Veronica": {
+        "Star Wars - Episode III": 3,
+        "The Revenant": 5,
+        "The Hateful Eight": 4,
+        "Resident Evil": 2,
+        "Perfume: The Story of a Murderer": 3
+    },
+    "Miguel": {
+        "Star Wars - Episode III": 9,
+        "Resident Evil": 1,
+        "Eternal Sunshine of the Spotless Mind": 10
+    }
+}
