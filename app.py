@@ -1,5 +1,3 @@
-from crypt import methods
-import json
 from flask import Flask, request
 from pathlib import Path
 from flask import jsonify
@@ -7,12 +5,14 @@ from recommender import recommend
 from user_controller import insert_user, create_review, retrieve_movies_list
 
 DATA_PATH = str(Path(__file__).resolve().parent)
-HOST = "localhost"
-PORT = 5000
 
 DEFAULT_EMPTY = {}
 
 app = Flask(__name__)
+
+@app.route('/health')
+def get_health():
+    return "OK"
 
 @app.route('/movies')
 def get_movies():
@@ -63,11 +63,6 @@ def review_movie():
     else:
         return msg, 404
 
-if __name__ == "__main__":
-    # from waitress import serve
+print("Starting Recommendation Service")
+print("----------------------------------------------------")
 
-    print("Starting Recommendation Service")
-    print("Listening on http://{}:{}/".format(HOST, PORT))
-    print("----------------------------------------------------")
-
-    app.run(host=HOST, port=PORT)
