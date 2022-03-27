@@ -20,7 +20,13 @@ def get_movies():
 
 @app.route('/recommend/<username>')
 def get_recommendation(username):
-    return jsonify(recommend(username))
+    recommendations = recommend(username)
+    response = [
+        { "movie": movie, "rating": rating }
+        for movie, rating in recommendations
+    ]
+
+    return jsonify(response)
 
 @app.route("/user", methods = ["POST"]) # inserir um novo usuário na base
 def create_user():

@@ -76,5 +76,5 @@ def recommend(username):
             if not artist in userRatings:
                 recommendations.append((artist, neighborRatings[artist]))
         # using the fn sorted for variety - sort is more efficient
-        return sorted(recommendations, key=lambda artistTuple: artistTuple[1], reverse = True)
+        return sorted(recommendations, key=lambda movieTuple: movieTuple[1], reverse = True)
     return []
