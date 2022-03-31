@@ -1,5 +1,5 @@
 {
-    "Angelica": {
+    "User1": {
         "Star Wars - Episode III": 3,
         "Eternal Sunshine of the Spotless Mind": 2,
         "The Revenant": 4,
@@ -8,7 +8,7 @@
         "Perfume: The Story of a Murderer": 2,
         "Interestellar": 2
     },
-    "Bill": {
+    "User2": {
         "Star Wars - Episode III": 2,
         "Eternal Sunshine of the Spotless Mind": 3,
         "Avengers: Endgame": 4,
@@ -16,7 +16,7 @@
         "Resident Evil": 3,
         "Interestellar": 3
     },
-    "Chan": {
+    "User3": {
         "Star Wars - Episode III": 5,
         "Eternal Sunshine of the Spotless Mind": 1,
         "Avengers: Endgame": 1,
@@ -24,7 +24,7 @@
         "The Hateful Eight": 5,
         "Resident Evil": 1
     },
-    "Dan": {
+    "User4": {
         "Star Wars - Episode III": 3,
         "Eternal Sunshine of the Spotless Mind": 4,
         "Avengers: Endgame": 4,
@@ -33,14 +33,14 @@
         "Perfume: The Story of a Murderer": 4,
         "Interestellar": 2
     },
-    "Hailey": {
+    "User5": {
         "Eternal Sunshine of the Spotless Mind": 4,
         "Avengers: Endgame": 1,
         "The Revenant": 4,
         "Perfume: The Story of a Murderer": 4,
         "Interestellar": 1
     },
-    "Jordyn": {
+    "User6": {
         "Eternal Sunshine of the Spotless Mind": 4,
         "Avengers: Endgame": 4,
         "The Revenant": 5,
@@ -49,7 +49,7 @@
         "Perfume: The Story of a Murderer": 4,
         "Interestellar": 4
     },
-    "Sam": {
+    "User7": {
         "Star Wars - Episode III": 5,
         "Eternal Sunshine of the Spotless Mind": 2,
         "The Revenant": 3,
@@ -57,7 +57,7 @@
         "Resident Evil": 4,
         "Perfume: The Story of a Murderer": 5
     },
-    "Veronica": {
+    "User8": {
         "Star Wars - Episode III": 3,
         "The Revenant": 5,
         "The Hateful Eight": 4,

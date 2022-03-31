@@ -52,7 +52,7 @@ def computeNearestNeighbor(username, users):
     return []
 
 def filter_already_watched(username, recommendations):
-    already_watched = retrieve_user_movies()
+    already_watched = retrieve_user_movies(username)
 
     return [
             recommendation
